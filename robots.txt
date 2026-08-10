@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-5-kazino.github.io
+Sitemap: https://top-5-kazino.github.io/sitemap.xml
